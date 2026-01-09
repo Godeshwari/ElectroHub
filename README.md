@@ -81,10 +81,15 @@ The site layout adjusts beautifully on all screen sizes — from desktops to tab
 # 📌 Features
 
 ✨ Responsive Layout — Works across devices
+
 ✨ Clean & Modern UI — Professional design aesthetics
+
 ✨ Dynamic Elements — Interactive buttons, menus, modals
+
 ✨ User-Friendly Navigation — Intuitive page flow
+
 ✨ Functional Forms — Registration & contact forms
+
 ✨ Cart & Checkout UI — Simulated shopping experience
 
 
