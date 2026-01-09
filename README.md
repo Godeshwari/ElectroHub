@@ -32,7 +32,9 @@ Click the play button to watch the demo:
 
 https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-9065-0788094b70db.mov
 
+# Live Demo 👇
 
+https://electro-hub-24yz.vercel.app/
 
 
 # 🌟 Highlights
