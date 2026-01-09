@@ -10,7 +10,5 @@ https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-
 
 
  
-### Liked Project 💌?
-If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
-
+Code with  💌?
 
